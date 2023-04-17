@@ -6,8 +6,8 @@ $("#open").click(function(){
 	if(!aparted)
 	{
 		var typed = new Typed('.letter', {
-			strings: ["^1000亲爱的&nbsp;&nbsp;胡诗钰", 
-				"胡^200诗钰<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;我爱你……<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;我也不知为何……<br><br><p style='float:right; display:block; width:80px;'>^1000贺^200韩冬</p>"],
+			strings: ["^1000亲爱的&nbsp;&nbsp;吴佳玉", 
+				"吴^200佳玉<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;我爱你……<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;你愿意吗？<br><br><p style='float:right; display:block; width:80px;'>^1000贺^200韩冬</p>"],
 			typeSpeed: 100,
 			backSpeed: 50
 		});
